@@ -1,0 +1,159 @@
+{
+  "_aide": "Fichier principal du site. Modifiez uniquement le texte entre guillemets. Voir GUIDE.md.",
+
+  "identite": {
+    "nom_complet": "Léopold César N’DIN N’DIN",
+    "nom_court": "César N’DIN",
+    "initiales": "LN",
+    "titre": "Ingénieur Travaux Publics",
+    "specialite": "Méthodes & BIM",
+    "localisation": "Abidjan, Côte d’Ivoire",
+    "accroche": "Je transforme les plans d’exécution en méthodes de construction claires, et j’apporte au chantier des outils numériques pour mieux décider : maquette BIM, programmation, analyse probabiliste.",
+    "presentation_courte": "Ingénieur des Travaux Publics diplômé de l’ESTP – INPHB, je travaille comme Ingénieur Méthodes sur la Ligne 1 du métro d’Abidjan. Je combine rigueur technique et sens de l’innovation pour améliorer la qualité et l’efficacité des projets."
+  },
+
+  "contact": {
+    "email": "leopoldndin34@gmail.com",
+    "telephone": "+225 01 01 79 98 33",
+    "afficher_telephone": false,
+    "linkedin_url": "",
+    "linkedin_nom": "Leopold N’DIN",
+    "formulaire_endpoint": ""
+  },
+
+  "cv": {
+    "fichier": "documents/CV-Leopold-NDIN-Ingenieur-Travaux-Publics.pdf",
+    "mise_a_jour": "2026"
+  },
+
+  "seo": {
+    "url_du_site": "",
+    "chemin_de_base": "/",
+    "description": "Portfolio de Léopold César N’DIN N’DIN, Ingénieur Travaux Publics (ESTP – INPHB) : plans méthodes sur le métro d’Abidjan, maquettes BIM, aide à la décision par PERT, Monte-Carlo et Fuzzy AHP.",
+    "mots_cles": "ingénieur travaux publics, ingénieur méthodes, BIM, Revit, métro d’Abidjan, génie civil, Côte d’Ivoire, plans méthodes, Monte-Carlo"
+  },
+
+  "a_propos": {
+    "intro": "Je suis ingénieur des Travaux Publics, formé à l’École Supérieure des Travaux Publics de l’INPHB de Yamoussoukro. Mon terrain d’expression principal est aujourd’hui la Ligne 1 du métro d’Abidjan, où je prépare les méthodes de réalisation des ouvrages.",
+    "paragraphes": [
+      "Mon parcours commence par deux années de classes préparatoires MPSI/MP à l’INPHB, puis le cycle ingénieur à l’ESTP (2022–2025), école accréditée CTI. En parallèle, j’ai découvert le chantier lors de stages chez Smart Business Holding : suivi de travaux routiers, quantités de terrassement, dimensionnement de systèmes d’assainissement autonome.",
+      "En 2025, j’ai rejoint SICMA – Bouygues Travaux Publics comme stagiaire conducteur de travaux sur le viaduc du métro. J’y ai rédigé des procédures de préfabrication des dalles, construit des plannings de production sous contraintes, et mené mon projet de fin d’études : un processus d’aide à la décision pour choisir la méthode de réalisation de la dalle d’un ouvrage d’art mixte.",
+      "Depuis le 30 octobre 2025, j’y travaille comme Ingénieur Méthodes. Je réalise des plans méthodes 2D/3D à partir des plans d’exécution, je les présente aux équipes et je suis leur mise en place sur le chantier, avec une attention constante à la sécurité et à la qualité."
+    ],
+    "approche": [
+      { "titre": "Partir du chantier", "texte": "Une méthode n’a de valeur que si elle est comprise et appliquée par les équipes. Je dessine pour ceux qui construisent, puis je vérifie sur place." },
+      { "titre": "Modéliser pour anticiper", "texte": "La maquette 2D/3D permet de voir les phasages, les interfaces et les risques avant qu’ils n’apparaissent sur le terrain." },
+      { "titre": "Décider avec des données", "texte": "Quand plusieurs méthodes sont possibles, je préfère comparer délais, coûts et risques avec des outils probabilistes plutôt qu’à l’intuition." }
+    ],
+    "objectifs": "Je souhaite approfondir l’ingénierie numérique appliquée à la construction : BIM, automatisation des tâches d’études et, à terme, intelligence artificielle appliquée aux structures et aux infrastructures. Je suis ouvert aux opportunités professionnelles, aux collaborations et aux missions en Côte d’Ivoire comme à l’international."
+  },
+
+  "competences": [
+    {
+      "categorie": "Génie civil et construction",
+      "items": [
+        { "nom": "Méthodes de construction d’ouvrages d’art", "preuve": "Viaduc du métro : culées, travées, dalles préfabriquées", "projet": "metro-abidjan-ingenieur-methodes" },
+        { "nom": "Suivi et contrôle des travaux", "preuve": "SICMA (2025–), Smart Business Holding (2023, 2024)" },
+        { "nom": "Sécurité et qualité sur chantier", "preuve": "Visites sécurité et qualité sur les chantiers du métro", "projet": "metro-abidjan-ingenieur-methodes" },
+        { "nom": "Travaux routiers et terrassement", "preuve": "Suivi de travaux routiers, quantités de terrassement (SBH, 2023)" },
+        { "nom": "Assainissement autonome", "preuve": "Dimensionnement et plans d’implantation (SBH, 2024)" }
+      ]
+    },
+    {
+      "categorie": "BIM et modélisation",
+      "items": [
+        { "nom": "Revit", "preuve": "Plans méthodes 2D/3D, maquette BIM", "projet": "metro-abidjan-ingenieur-methodes" },
+        { "nom": "AutoCAD", "preuve": "Plans méthodes à partir des plans d’exécution", "projet": "metro-abidjan-ingenieur-methodes" },
+        { "nom": "Maquette BIM et rendus réalistes", "preuve": "Conception d’une villa basse moderne", "projet": "conception-villa-basse" },
+        { "nom": "SketchUp, FreeCAD, Navisworks", "preuve": "Logiciels indiqués dans le CV" }
+      ]
+    },
+    {
+      "categorie": "Calcul et analyse structurelle",
+      "items": [
+        { "nom": "Robot Structural Analysis", "preuve": "Logiciel indiqué dans le CV" },
+        { "nom": "Dimensionnement des éléments porteurs", "preuve": "Note de calcul de la villa basse", "projet": "conception-villa-basse" },
+        { "nom": "Étude de structures", "preuve": "Qualification indiquée dans le CV" }
+      ]
+    },
+    {
+      "categorie": "Méthodes et planification",
+      "items": [
+        { "nom": "Plans méthodes et phasage", "preuve": "Terrassement, ferraillage, coffrage, pose de dalles", "projet": "metro-abidjan-ingenieur-methodes" },
+        { "nom": "Planning de production sous contraintes", "preuve": "Transport, clavage, pose de dalles (stage SICMA 2025)", "projet": "pfe-aide-decision-dalle-viaduc" },
+        { "nom": "PERT", "preuve": "Analyse des délais des méthodes de réalisation", "projet": "pfe-aide-decision-dalle-viaduc" },
+        { "nom": "Microsoft Project", "preuve": "Logiciel indiqué dans le CV" },
+        { "nom": "Procédures de préfabrication", "preuve": "Dalles du viaduc (stage SICMA 2025)" }
+      ]
+    },
+    {
+      "categorie": "Programmation et automatisation",
+      "items": [
+        { "nom": "Python", "preuve": "Programme de simulation de Monte-Carlo", "projet": "pfe-aide-decision-dalle-viaduc" },
+        { "nom": "C#", "preuve": "Langage indiqué dans le CV" },
+        { "nom": "VBA", "preuve": "Langage indiqué dans le CV" }
+      ]
+    },
+    {
+      "categorie": "Analyse de données et aide à la décision",
+      "items": [
+        { "nom": "Simulation de Monte-Carlo", "preuve": "Analyse probabiliste de deux méthodes de réalisation", "projet": "pfe-aide-decision-dalle-viaduc" },
+        { "nom": "Fuzzy AHP", "preuve": "Décision multicritère (temps, coût, sécurité)", "projet": "pfe-aide-decision-dalle-viaduc" },
+        { "nom": "Power BI, Excel", "preuve": "Logiciels indiqués dans le CV" }
+      ]
+    }
+  ],
+
+  "langues": [
+    { "langue": "Français", "niveau": "Langue maternelle" },
+    { "langue": "Anglais", "niveau": "B1 (test elAo) · programme d’anglais à Sunyani Technical University, Ghana (2022)" }
+  ],
+
+  "qualites": ["Prise d’initiative", "Capacité d’adaptation", "Rigueur", "Esprit d’équipe", "Sens du détail", "Autonomie", "Leadership", "Ouverture d’esprit"],
+
+  "interets": ["BIM", "Musique", "Dessin", "Athlétisme", "Volley-ball", "Natation"],
+
+  "experiences": [
+    {
+      "periode": "30 oct. 2025 – en cours",
+      "annee": "2025",
+      "poste": "Ingénieur Méthodes",
+      "structure": "SICMA – Bouygues Travaux Publics",
+      "lieu": "Abidjan",
+      "missions": ["Réalisation de plans méthodes à partir de plans d’exécution", "Présentation et suivi de mise en place des plans sur les chantiers", "Visites sécurité et qualité lors de la réalisation des travaux"],
+      "projet": "metro-abidjan-ingenieur-methodes"
+    },
+    {
+      "periode": "4 mars 2025 – 4 sept. 2025",
+      "annee": "2025",
+      "poste": "Stagiaire Conducteur Travaux",
+      "structure": "SICMA – Bouygues Travaux Publics",
+      "lieu": "Abidjan",
+      "missions": ["Procédures pour la préfabrication des dalles du viaduc", "Planning de production sous plusieurs contraintes (transport, clavage, pose de dalles)", "Contrôle des travaux", "Commande et réception de matériels et matériaux"],
+      "projet": "pfe-aide-decision-dalle-viaduc"
+    },
+    {
+      "periode": "22 juin 2024 – 20 août 2024",
+      "annee": "2024",
+      "poste": "Stagiaire Ingénieur Travaux",
+      "structure": "Smart Business Holding (SBH)",
+      "lieu": "",
+      "missions": ["Dimensionnement des éléments d’un système d’assainissement autonome et individuel", "Plans d’implantation du système", "Suivi et contrôle des travaux", "Gestion des matériaux"]
+    },
+    {
+      "periode": "30 juil. 2023 – 10 sept. 2023",
+      "annee": "2023",
+      "poste": "Stagiaire Ingénieur Travaux",
+      "structure": "Smart Business Holding (SBH)",
+      "lieu": "",
+      "missions": ["Suivi de travaux routiers", "Gestion du transport de matériaux", "Détermination des quantités de matériaux lors de travaux de terrassement"]
+    }
+  ],
+
+  "formations": [
+    { "periode": "2022 – 2025", "diplome": "Diplôme d’Ingénieur des Travaux Publics", "detail": "Option Bâtiment et Urbanisme", "ecole": "École Supérieure des Travaux Publics (ESTP), INPHB Yamoussoukro · accrédité CTI" },
+    { "periode": "2022", "diplome": "Programme d’anglais", "detail": "", "ecole": "Sunyani Technical University, Ghana" },
+    { "periode": "2020 – 2022", "diplome": "Classes préparatoires MPSI / MP", "detail": "Mathématiques, physique et sciences de l’ingénieur", "ecole": "CPGE de l’INPHB, Yamoussoukro" },
+    { "periode": "2020", "diplome": "Baccalauréat série C", "detail": "", "ecole": "Lycée Konan Camille d’Adiaké" }
+  ]
+}
