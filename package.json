@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-leopold-ndin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio professionnel de Léopold César N’DIN N’DIN, Ingénieur Travaux Publics",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "apercu": "node build.mjs && npx --yes serve dist -l 4321"
+  },
+  "dependencies": {
+    "marked": "18.0.10"
+  },
+  "engines": { "node": ">=20" }
+}
